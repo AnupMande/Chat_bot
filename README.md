@@ -1,2 +1,2 @@
 # Chat_bot
-Created a chat_bot for Mathematics Purpose
+Create a simple chat-bot using Python and Natural Language Processing (NLP) libraries For Products.
